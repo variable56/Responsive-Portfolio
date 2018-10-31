@@ -291,9 +291,11 @@ textarea {
     #project4,
     #project5,
     #project6 {
-        width: 500px;
-        height: 375px;
-        background-size: 500px 375px;
+        background-size: cover;
+        width: 90%;
+        height: auto;
+        margin: 20px;
+
 
     }
 
@@ -301,6 +303,9 @@ textarea {
         margin-top: 265px;
         padding: 20px 0 20px 0;
         font-size: 28px;
+    }
+
+    img {
     }
 
 }
